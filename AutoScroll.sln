@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoScroll", "AutoScroll.csproj", "{74A5E6E2-D785-4ED6-BD63-6FB3D92B4E87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A5E6E2-D785-4ED6-BD63-6FB3D92B4E87}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{74A5E6E2-D785-4ED6-BD63-6FB3D92B4E87}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{74A5E6E2-D785-4ED6-BD63-6FB3D92B4E87}.Release|iPhone.ActiveCfg = Release|iPhone
+		{74A5E6E2-D785-4ED6-BD63-6FB3D92B4E87}.Release|iPhone.Build.0 = Release|iPhone
+		{74A5E6E2-D785-4ED6-BD63-6FB3D92B4E87}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{74A5E6E2-D785-4ED6-BD63-6FB3D92B4E87}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{74A5E6E2-D785-4ED6-BD63-6FB3D92B4E87}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{74A5E6E2-D785-4ED6-BD63-6FB3D92B4E87}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
