@@ -80,7 +80,7 @@ namespace AutoScroll
                 if (textField != null)
                 {
                     textField.Tag = i;
-                    textField.ShouldReturn += ShouldReturn;
+                    textField.ShouldReturn = ShouldReturn;
                 }
             }
         }
@@ -99,7 +99,7 @@ namespace AutoScroll
             {
                 var textField = _contentView.Subviews[i] as UITextField;
                 if (textField != null)
-                    textField.ShouldReturn -= ShouldReturn;
+                    textField.ShouldReturn = null;
             }
         }
 
